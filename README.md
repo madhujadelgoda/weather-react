@@ -45,6 +45,7 @@ A responsive React web application that displays **current weather** and a **5-d
 
 ## Installation
 
+```bash
 # Clone the repository
 git clone <repo-url>
 
