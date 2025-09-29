@@ -39,7 +39,16 @@ A responsive React web application that displays **current weather** and a **5-d
 - **State Management:** React `useState` and `useEffect`
 - **HTTP Requests:** Axios
 - **Animations:** CSS animations for gradient background and loading effects
-- **Fonts:** [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue) for title  
+- **Fonts:** [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue) for title
+
+---
+
+## Future Improvements
+
+- Add **geolocation** to automatically show weather for the user’s location.
+- Add **unit switching** (Celsius ↔ Fahrenheit).
+- Implement **hourly forecast** view.
+- Add **dark/light mode toggle**.
 
 ---
 
@@ -57,12 +66,3 @@ npm install
 
 # Start development server
 npm run dev
-
----
-
-## Future Improvements
-
-- Add **geolocation** to automatically show weather for the user’s location.
-- Add **unit switching** (Celsius ↔ Fahrenheit).
-- Implement **hourly forecast** view.
-- Add **dark/light mode toggle**.
